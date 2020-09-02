@@ -1,0 +1,48 @@
+#nbar {
+    position: absolute;
+    color: black;
+    padding-left: 10px;
+}
+
+#nbar2 {
+    text-align: right;
+    color: black;
+    padding-right: 10px;
+}
+
+#goog{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 100px;
+}
+
+#srchbr {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 25px;
+    width: 400px;
+    height: 30px;
+}
+
+#srchbut {
+    display: block;
+    text-align: center
+}
+
+#fbar {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+#fb1 {
+    position: absolute;
+    padding-left: 10px;
+}
+
+#fb2 {
+    text-align: right;
+    padding-right: 20px;
+}
